@@ -1,6 +1,6 @@
 <h1> Suhayl Siddique </h1>
 
-![Myself](image/suhayl.png "Suhayl")
+![Myself](image/suhayl.jng "Suhayl")
 
 ![Cricket](image/cricket.jpg "Cricket")
 
@@ -18,4 +18,4 @@ I play cricket during summer time with my friends. We keep tournaments to compet
 
 ## Git tutorial
 
-<img src="/image/6.png>
+<img src="/image/6.png">
