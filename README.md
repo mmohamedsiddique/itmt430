@@ -1,6 +1,6 @@
 <h1> Suhayl Siddique </h1>
 
-![Myself](image/suhayl.jng "Suhayl")
+![Myself](image/suhayl.jpg "Suhayl")
 
 ![Cricket](image/cricket.jpg "Cricket")
 
